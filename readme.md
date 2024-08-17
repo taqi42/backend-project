@@ -4,7 +4,6 @@ This is a Backend Project
 
 - [Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
-
 ## npm packages used
 
 - [dotenv](https://www.npmjs.com/package/dotenv)
@@ -13,4 +12,7 @@ This is a Backend Project
 - [prettier](https://www.npmjs.com/package/prettier)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 
+- [cookie-parser](https://www.npmjs.com/package/cookie-parser)
 
+- Middleware:
+  - [cors](https://www.npmjs.com/package/cors)
