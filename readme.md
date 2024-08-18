@@ -18,3 +18,4 @@ This is a Backend Project
 
 - Middleware:
   - [cors](https://www.npmjs.com/package/cors)
+  - [multer](https://www.npmjs.com/package/multer)
